@@ -29,7 +29,7 @@
 ---
 
 ## 🌍 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anasmahmoodprogrammer)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anasmahmoodprogrammer)  
 - 📧 Email: **anasmahmoodf23@nutech.edu.pk**  
 - 🌐 Portfolio: *(Coming Soon)*  
 
