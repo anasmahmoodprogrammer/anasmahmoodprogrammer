@@ -6,7 +6,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/anasmahmoodprogrammer?label=Followers&style=social)](https://github.com/anasmahmoodprogrammer?tab=followers)  
 [![GitHub Stars](https://img.shields.io/github/stars/anasmahmoodprogrammer?label=Stars&style=social)](https://github.com/anasmahmoodprogrammer?tab=repositories)  
 
-💻 **Software Engineering Student | Aspire Leaders Program 2025 Participant | Aspiring Software Developer | AI & Tech Enthusiast | Open to Internship Opportunities | NUTIAN’27**  
+💻 **Software Engineering Student | Aspire Leaders Program 2025 Participant | Software Developer | AI & Tech Enthusiast | Open to Internship Opportunities | NUTIAN’27**  
 🚀 Passionate about building projects in **C++ | Java | Python | Web Development (HTML, CSS, JS, React)**  
 🌱 Currently exploring **AI Agents, Automation, and Modern Web Apps**  
 
